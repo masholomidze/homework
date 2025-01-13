@@ -1,0 +1,54 @@
+div1 {
+    width: 400px;
+    height: 400px;
+    background-color: red;
+    border: 1px solid black;
+    display: flex;
+    flex-direction: row;
+}
+
+div2 {
+    width: 400px;
+    height: 400px;
+    background-color: red;
+    border: 1px solid black;
+    display: flex;
+    flex-direction: column;
+}
+
+div3 {
+    width: 400px;
+    height: 400px;
+    background-color: red;
+    border: 1px solid black;
+    display: flex;
+    flex-direction: row-reverse;
+}
+
+div4 {
+    width: 400px;
+    height: 400px;
+    background-color: red;
+    border: 1px solid black;
+    display: flex;
+    flex-direction: column-reverse;
+}
+
+div5 {
+    width: 400px;
+    height: 400px;
+    background-color: red;
+    border: 1px solid black;
+}
+
+.div_child {
+    width: 50px;
+    height: 50px;
+    background-color: pink;
+    border: 2px solid white;
+}
+
+body{
+    display: flex;
+    justify-content: space-between;
+}

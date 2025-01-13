@@ -1,0 +1,29 @@
+header {
+    justify-content: space-between;
+    padding: 25px 85px;
+    align-items: center;
+    background-color: black;
+    color: greenyellow;
+}
+
+.main-title {
+    font-size: 2rem;
+}
+
+nav ul {
+    display: flex;
+    gap: 15px;
+    list-style-type: none;
+    font-size: 1.5rem;
+}
+
+.mister-nika {
+    width: 400;
+    height: 300;
+}
+
+img {
+    width: 300;
+    height: 150;
+}
+
