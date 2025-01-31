@@ -1,0 +1,19 @@
+.div1{
+    border: 2px black solid;
+    background-color: red;
+    margin: 20px;
+    padding: 20px;
+    width: 200px;
+    height: 150px;
+    text-align: center;
+}
+
+.div2{
+    border: 2px black solid;
+    background-color: darkred;
+    padding: 15px;
+    margin: 10px;
+    width: 250px;
+    height: 300px;
+    text-align: center;
+}

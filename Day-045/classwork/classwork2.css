@@ -1,0 +1,24 @@
+/*  შექმენით დივი რომელშიც იქნება მოთავსებული პარაგრაფი, ამ დივს ყველამხრიდან ექნება 20px დაშორება ბორდერის გარეთ ხოლო 
+ ბორდერის შიგნით მარცხენა მხარეს ექნება 10px დაჭორება ზედა მხარეს 15px ხოლო ქვემოთ და მარჯვნივ 20-20px ასევე იქნება მეორე დივი 
+რომელსაც ყველა მხარეს ექნება სხვადასხვა დაშორებები ბორდერდის გარეთ და ერთიდაიგივე 
+დაშორება ყველა მხრიდან ბორდერსა და კონტენტს შორის, ორივე დივს გაუკეთეთ ბორდერი */
+
+.div1{
+    border: 2px black solid;
+    background-color: red;
+    margin: 20px;
+    padding-left: 10px;
+    padding-top: 15px;
+    padding-bottom: 20px;
+    padding-right: 20px;
+}
+
+.div2{
+    border: 2px black solid;
+    background-color: darkred;
+    padding: 15px;
+    margin-top: 21px;
+    margin-bottom: 15px;
+    margin-left: 17px;
+    margin-right: 19px;
+}
