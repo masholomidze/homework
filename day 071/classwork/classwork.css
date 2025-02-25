@@ -1,0 +1,41 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+header{
+    background-color: rgd(49, 49, 49);
+    border-top: 5px red solid;
+    color: white;
+    display: flex;
+    gap: 50px;
+}
+
+head h1{
+    margin-right: 40px;
+}
+
+nav yl{
+    display: flex;
+    gap: 30px;
+    list-style-type: none;
+    font-size:x-large;
+
+    .han{
+        color: red;
+    }
+#poltforio{
+    color: red;
+    text-decoration: ;
+}
+header bottom{
+    background-color: white;
+    color: black;
+    width: 100px;
+    height: 30px;
+    border-radius: 5px;
+    border: none;
+    margin-left: 45px;
+}
+}
